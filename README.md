@@ -1,5 +1,8 @@
 # FishTrack
 
+# This code has migrated to the Laskowski Lab account. 
+Go to https://github.com/LaskowskiLab/FishTrack for further updates
+
 Lots of code to handle the acquisition and processing of fish videos for the Laskowski Lab
 
 Code is under active development. Check with Ammon for questions 
